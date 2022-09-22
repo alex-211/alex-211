@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alex-211
+- 👋 Hi, I’m Alex
 - 🏫 I am in the 3rd year of highschool
 - 👀 I’m interested in Computer Science, trains, urbanism and video games
 - 🌱 I’m currently learning C# in school
