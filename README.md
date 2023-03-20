@@ -13,6 +13,7 @@ Stuff I'm interested in / learning more about on my own:
 - Cool stats
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=alex-211&show_icons=true&theme=tokyonight&count_private=true">
+<img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-211&layout=compact&theme=tokyonight">
 - Pinned repos
 <br>
-(Coming soon)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alex-211&repo=CSS-Scuola&show_owner=true&theme=tokyonight">
