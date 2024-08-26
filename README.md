@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-📍 Turin, IT<br>-🎈 17 y.o.<br>-📚 High school student (4th year) at ITIS E. Majorana</p>
+<p align="left">-📍 Turin, IT<br>-🎈 18 y.o.<br>-📚 High school student (5th year) at ITIS E. Majorana</p>
 
 ###
 
