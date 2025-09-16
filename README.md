@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-📍 Turin, IT<br>-🎈 18 y.o.<br>-📚 High school student (5th year) at ITIS E. Majorana</p>
+<p align="left">-📍 Turin, IT<br>-🎈 19 y.o.<br>-📚 Computer Science student @ University of Turin</p>
 
 ###
 
